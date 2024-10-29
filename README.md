@@ -1,5 +1,5 @@
 
-# Company Relational DatabasMYmySQL Project
+# Company Relational Database Project With Mysql
 
 ## Introduction
 This project involves designing and analyzing a relational database to manage employee and branch information for a company. The database provides a systematic approach to storing, retrieving, and managing data for employees, including their details, hierarchical reporting relationships, and branch assignments. Using SQL, this project illustrates foundational database management and data analysis techniques that maintain data integrity while supporting efficient information retrieval.
